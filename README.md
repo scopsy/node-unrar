@@ -28,7 +28,7 @@ archive.extract('/path/to/dest/', function (err) {
 
 ## License
 
-Apache-2.0 © [Dima Grossman]()
+Apache-2.0 © ()
 
 
 [npm-image]: https://badge.fury.io/js/node-unrar.svg
