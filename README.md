@@ -1,10 +1,10 @@
-# node-unrar [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# node-unrar [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > Unrar wrapper for Node-js.
 
 
 # node-unrar
 
-Created to unrar archives usin `unrar` library.
+Created to unrar archives using `unrar` library.
 
 ## Installation
 
@@ -19,7 +19,7 @@ var Unrar = require('node-unrarlib');
 
 var rar = new Unrar('/path/to/file.rar');
 
-archive.extract('/path/to/dest/', function (err) {
+rar.extract('/path/to/dest/', function (err) {
     //file extracted succesfully.
 });
 ```
@@ -28,7 +28,7 @@ archive.extract('/path/to/dest/', function (err) {
 
 ## License
 
-Apache-2.0 © ()
+Apache-2.0 © 
 
 
 [npm-image]: https://badge.fury.io/js/node-unrar.svg
