@@ -1,0 +1,37 @@
+{
+  "name": "node-unrar",
+  "version": "0.0.0",
+  "description": "Unrar wrapper for Node-js.",
+  "homepage": "",
+  "repository": "scopsy/node-unrar",
+  "author": {
+    "name": "Dima Grossman",
+    "email": "dima@grossman.io",
+    "url": ""
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "unrar",
+    "nodejs",
+    "rar",
+    "extract",
+    "zip"
+  ],
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.9.0",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^0.4.5"
+  },
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "Apache-2.0"
+}
