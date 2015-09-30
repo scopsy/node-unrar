@@ -8,14 +8,14 @@ Created to unrar archives using `unrar` library.
 
 ## Installation
 
-`npm install node-unrarlib`
+`npm install node-unrar`
 
 You must install `unrar` from rarlab website and put it in your PATH.
 
 ## Example
 
 ```js
-var Unrar = require('node-unrarlib');
+var Unrar = require('node-unrar');
 
 var rar = new Unrar('/path/to/file.rar');
 
