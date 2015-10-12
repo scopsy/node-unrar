@@ -24,6 +24,8 @@ rar.extract('/path/to/dest/', null, function (err) {
 });
 ```
 
+## TODO
+Utilize a second argument as an options object for password protected rar's and other avilable options.
 
 
 ## License
