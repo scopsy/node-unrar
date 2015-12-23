@@ -1,6 +1,6 @@
 {
   "name": "node-unrar",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Unrar wrapper for Node-js.",
   "homepage": "",
   "repository": "scopsy/node-unrar",
@@ -30,7 +30,6 @@
     "gulp-nsp": "^0.4.5"
   },
   "scripts": {
-    "prepublish": "gulp prepublish",
     "test": "gulp"
   },
   "license": "Apache-2.0",
