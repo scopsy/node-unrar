@@ -19,6 +19,8 @@ var Unrar = require('node-unrar');
 
 var rar = new Unrar('/path/to/file.rar');
 
+/// Create '/path/to/dest/' before rar.extract()
+
 rar.extract('/path/to/dest/', null, function (err) {
     //file extracted succesfully.
 });
