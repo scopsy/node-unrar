@@ -15,19 +15,19 @@ You must install `unrar` from rarlab website and put it in your PATH.
 ## Example
 
 ```js
-var Unrar = require('node-unrar-update');
+var Unrar = require('node-unrar');
 
 var rar = new Unrar('/path/to/file.rar');
 
 /// Create '/path/to/dest/' before rar.extract()
 
 rar.extract('/path/to/dest/', null, function (err) {
-    //file extracted succesfully.
+    //file extracted successfully.
 });
 ```
 
 ## TODO
-Utilize a second argument as an options object for password protected rar's and other avilable options.
+Utilize a second argument as an options object for password protected rar's and other available options.
 
 
 ## License
