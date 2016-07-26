@@ -5,7 +5,7 @@
   "homepage": "",
   "repository": "scopsy/node-unrar",
   "author": {
-    "name": "Dima Grossman",
+    "name": "Dima Grossman, edits by Alice Maldonado",
     "email": "dima@grossman.io",
     "url": ""
   },
@@ -34,7 +34,6 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "fs-extra": "^0.24.0",
     "shell-escape": "^0.2.0"
   }
 }
