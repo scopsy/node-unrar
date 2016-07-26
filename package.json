@@ -1,12 +1,12 @@
 {
   "name": "node-unrar-update",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Unrar wrapper for Node-js.",
   "homepage": "",
-  "repository": "alice-em/node-unrar",
+  "repository": "scopsy/node-unrar",
   "author": {
-    "name": "Dima Grossman, edits by Alice Maldonado",
-    "email": "dima@grossman.io, edits by the.alice.maldonado@gmail.com",
+    "name": "Dima Grossman",
+    "email": "dima@grossman.io",
     "url": ""
   },
   "files": [
