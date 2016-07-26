@@ -30,12 +30,12 @@ Utilize a second argument as an options object for password protected rar's and 
 
 ## License
 
-Apache-2.0 © 
+Apache-2.0 ©
 
 
 [npm-image]: https://badge.fury.io/js/node-unrar.svg
 [npm-url]: https://npmjs.org/package/node-unrar
-[travis-image]: https://travis-ci.org/scopsy/node-unrar.svg?branch=master
-[travis-url]: https://travis-ci.org/scopsy/node-unrar
-[daviddm-image]: https://david-dm.org/scopsy/node-unrar.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/scopsy/node-unrar
+[travis-image]: https://travis-ci.org/alice-em/node-unrar.svg?branch=master
+[travis-url]: https://travis-ci.org/alice-em/node-unrar
+[daviddm-image]: https://david-dm.org/alice-em/node-unrar.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/alice-em/node-unrar
