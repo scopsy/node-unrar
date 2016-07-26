@@ -36,7 +36,7 @@ Apache-2.0 ©
 
 
 [npm-image]: https://badge.fury.io/js/node-unrar.svg
-[npm-url]: https://npmjs.org/package/node-unrar
+[npm-url]: https://npmjs.org/package/node-unrar-update
 [travis-image]: https://travis-ci.org/alice-em/node-unrar.svg?branch=master
 [travis-url]: https://travis-ci.org/alice-em/node-unrar
 [daviddm-image]: https://david-dm.org/alice-em/node-unrar.svg?theme=shields.io
