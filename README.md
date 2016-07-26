@@ -15,7 +15,7 @@ You must install `unrar` from rarlab website and put it in your PATH.
 ## Example
 
 ```js
-var Unrar = require('node-unrar');
+var Unrar = require('node-unrar-update');
 
 var rar = new Unrar('/path/to/file.rar');
 
