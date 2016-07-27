@@ -1,6 +1,6 @@
 {
   "name": "node-unrar-update",
-  "version": "0.2.1",
+  "version": "0.1.5",
   "description": "Unrar wrapper for Node-js.",
   "homepage": "",
   "repository": "scopsy/node-unrar",
