@@ -19,18 +19,20 @@ var Unrar = require('node-unrar');
 
 var rar = new Unrar('/path/to/file.rar');
 
+/// Create '/path/to/dest/' before rar.extract()
+
 rar.extract('/path/to/dest/', null, function (err) {
-    //file extracted succesfully.
+    //file extracted successfully.
 });
 ```
 
 ## TODO
-Utilize a second argument as an options object for password protected rar's and other avilable options.
+Utilize a second argument as an options object for password protected rar's and other available options.
 
 
 ## License
 
-Apache-2.0 © 
+Apache-2.0 ©
 
 
 [npm-image]: https://badge.fury.io/js/node-unrar.svg
