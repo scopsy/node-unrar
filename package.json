@@ -3,7 +3,10 @@
   "version": "0.1.5",
   "description": "Unrar wrapper for Node-js.",
   "homepage": "",
-  "repository": "scopsy/node-unrar",
+  "repository": {
+    "type" : "git",
+    "url" :  "http://github.com/scopsy/node-unrar.git"
+  },
   "author": {
     "name": "Dima Grossman",
     "email": "dima@grossman.io",
